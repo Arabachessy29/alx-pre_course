@@ -1,6 +1,11 @@
 
 
 #!/bin/bash
+<<<<<<< HEAD
 
+=======
+echo "The school is open"
+|"the school is open"
+>>>>>>> master
 
 
